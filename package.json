@@ -4,5 +4,6 @@
   "description": "Resources to bridge from JavaScript to TypeScript + React",
   "devDependencies": {
     "typescript": "4.2.3"
-  }
+  },
+  "license": "CC-BY-NC-ND-4.0"
 }

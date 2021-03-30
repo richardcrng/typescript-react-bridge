@@ -10,7 +10,7 @@
  *  1. 👁️ Read the code
  *  2. 🤔 Predict what will happen when you run the code
  *  3. 👟 Run the code and compare your prediction
- *  4. 🧪 Experiment with changes (change -> predict -> run)
+ *  4. 👩🏽‍🔬 Experiment with changes (change -> predict -> run)
  *  5. 🧠 Try to complete the challenge(s)
  * 
  * Study questions:
