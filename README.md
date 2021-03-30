@@ -1,5 +1,10 @@
 # TypeScript Bridge
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+The objective of this course is to support you in learning _just enough TypeScript_ as you will need for basic React.
 
-> This is part of Academy's [technical curriculum for **The Mark**](https://github.com/WeAreAcademy/curriculum-mark). All parts of that curriculum, including this project, are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+At the moment, this course does not cover:
+
+- basic JavaScript (on the roadmap)
+- basic React (on the roadmap)
+
+The priority is on supplementing existing JS and React resources (of which there are many!) to support the novice developer who wants to use React with TypeScript.
