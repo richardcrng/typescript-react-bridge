@@ -1,0 +1,8 @@
+{
+  "version": "0.0.0",
+  "name": "typescript-bridge",
+  "description": "Resources to bridge from JavaScript to TypeScript + React",
+  "devDependencies": {
+    "typescript": "4.2.3"
+  }
+}
