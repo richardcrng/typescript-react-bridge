@@ -29,10 +29,10 @@ function greetLearner() {
 }
 
 /* 👩🏽‍🔬 Does the below line produce any logs? */
-// greet();
+// greetLearner();
 
 /* 👩🏽‍🔬 Does the below line produce any logs? */
-// console.log(greet());
+// console.log(greetLearner());
 
 /* 👩🏽‍🔬 Does the below line produce any logs? */
 // const greeting = greetLearner();
