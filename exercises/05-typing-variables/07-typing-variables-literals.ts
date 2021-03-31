@@ -11,8 +11,8 @@
  *  5. 🧠 Try to complete the challenge(s)
  *
  * Study questions:
- *  1. Which type allows more values: the string type, or a union of
- *      string literal types?
+ *  1. Which type allows more values: the string type, or a union
+ *      of string literal types?
  *
  *  2. What type would string | "test" become? Why? (Test it out!)
  *
