@@ -1,10 +1,7 @@
 /* Lesson: Typing variables: union types (1/1)
  *
  * Learning outcomes:
- *  - Add explicit types to a variable declaration
- *  - Explain how explicit typing restricts what can be assigned to a variable
- *  - Articulate how explicit typing is different to inferred typing
- *  - Explain a trade-off between explicit typing and inferred typing
+ *  - Use a union type when declaring a variable
  *
  * Instructions:
  *  1. 👁️ Read the code
@@ -18,8 +15,11 @@
  *      ordinary English word that makes sense of the typing
  *      boolean | string and its behaviour?
  *
- *  2. What do you see when you hover over a variable like
+ *  2. What do you see when you hover over a variable that is typed
+ *      to be a union type?
  *
+ *  3. What happens to the union type in the compiled .JS produced
+ *      (viewable in the Playground tab)?
  */
 
 let boolOrString: boolean | string;
