@@ -8,3 +8,25 @@ At the moment, this course does not cover:
 - basic React (on the roadmap)
 
 The priority is on supplementing existing JS and React resources (of which there are many!) to support the novice developer who wants to use React with TypeScript.
+
+## How to use
+
+We recommend pasting every exercise into the [TypeScript Playground](https://www.typescriptlang.org/play) and exploring the code that way.
+
+Once you've done that, pretty much every exercise should be approached in the same way:
+
+1. 👁️ Read the code
+2. 🤔 Predict what will happen when you run the code
+3. 👟 Run the code and compare your prediction
+4. 👩🏽‍🔬 Experiment with changes (change -> predict -> run)
+5. 🧠 Try to complete the challenge(s)
+
+### Ignoring noise
+
+Every exercise ends with the below snippet:
+
+```ts
+export {};
+```
+
+**You can safely ignore this** (and don't even need to copy and paste it into the TypeScript Playground).

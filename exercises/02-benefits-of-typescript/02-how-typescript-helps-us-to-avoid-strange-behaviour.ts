@@ -50,3 +50,5 @@ myFavouriteNumber = 5; /* reassignment, also to a number */
 let myFavouriteNumberPlusOne = myFavouriteNumber + 1;
 
 console.log(`What's ${myFavouriteNumber} + 1?`, myFavouriteNumberPlusOne);
+
+export {}; // ignore this line

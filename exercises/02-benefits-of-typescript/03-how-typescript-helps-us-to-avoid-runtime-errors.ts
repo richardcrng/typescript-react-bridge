@@ -49,3 +49,5 @@ mySentence = ["this", "should", "be", "a", "sentence"];
 // mySentence = ['roses', 'are', 'red'].join(' ');
 
 console.log("second log:", mySentence.toUpperCase());
+
+export {}; // ignore this line

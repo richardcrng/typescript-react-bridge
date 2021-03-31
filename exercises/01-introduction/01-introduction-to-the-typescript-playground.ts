@@ -45,3 +45,5 @@ function greetLearner() {
  *   let capturedValue = greetLearner(); // logs: "Welcome to the TypeScript Playground!"
  *   console.log(capturedValue); // logs: undefined
  */
+
+export {}; // ignore this line

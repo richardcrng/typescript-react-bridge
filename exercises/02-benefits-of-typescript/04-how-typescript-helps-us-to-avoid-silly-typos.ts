@@ -25,3 +25,5 @@ console.log("My data:", abutMe);
 /* 🧠 Fix me so that the runtime error disappears */
 
 console.log("My full name:", `${aboutMe.firstName} ${aboutMe.surname}`);
+
+export {}; // ignore this line

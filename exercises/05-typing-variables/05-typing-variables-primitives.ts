@@ -109,3 +109,5 @@ let myNumber: number;
 // myNumber = '5.55';
 // myNumber = '5.55'.length;
 // myNumber = parseInt('5');
+
+export {}; // ignore this line

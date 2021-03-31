@@ -41,3 +41,5 @@ let testThree: string | boolean;
 testThree = "hi";
 testThree = true;
 testThree = -10;
+
+export {}; // ignore this line
