@@ -1,7 +1,8 @@
 /* Lesson: Typing variables: array types (1/1)
  *
  * Learning outcomes:
- *  - Use a union of literal types when declaring a variable
+ *  - Use an array type when declaring a variable
+ *  - Explain how .push and .concat relate to an array's type
  *
  * Instructions:
  *  1. 👁️ Read the code
