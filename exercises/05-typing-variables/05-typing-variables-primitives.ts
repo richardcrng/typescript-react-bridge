@@ -2,7 +2,8 @@
  * 
  * Learning outcomes:
  *  - Add explicit types to a variable declaration
- *  - Explain how explicit typing restricts what can be assigned to a variable
+ *  - Explain how explicit typing restricts what can be assigned to
+ *      a variable
  *  - Articulate how explicit typing is different to inferred typing
  *  - Explain a trade-off between explicit typing and inferred typing
  * 
@@ -18,24 +19,27 @@
  *      What are the extra parts that you can see here?
  * 
  *  2. TypeScript 'compiles' to JavaScript - this means that, in order to
- *      run TypeScript code, we need to process it into JavaScript code first
- *      and then run that resultant JavaScript code. We can see this processed
- *      JavaScript code in the Playground's .JS tab.
+ *      run TypeScript code, we need to process it into JavaScript code
+ *      first and then run that resultant JavaScript code. We can see
+ *      this processed JavaScript code in the Playground's .JS tab.
  * 
- *     What are the differences between the TypeScript code and the JavaScript
- *      code? How does this relate to your answer to #1?
+ *     What are the differences between the TypeScript code and the
+ *      JavaScript code? How does this relate to your answer to #1?
  *  
 
  *  3. This lesson has some examples of:
  * 
- *      - inferred typing: e.g. TypeScript gives a type to a variable based on
- *          a value assigned to it (with no manual type declaration)
- *      - explicit typing: e.g. TypeScript gives a type to a variable based on
- *          a manual type declaration for it
+ *      - inferred typing: e.g. TypeScript gives a type to a variable
+ *          based on a value assigned to it (with no manual type
+ *          declaration)
+ * 
+ *      - explicit typing: e.g. TypeScript gives a type to a variable
+ *          based on a manual type declaration for it
  * 
  *      What is the difference between these two syntaxes?
  *      How do they interact? Can they be used together?
- *      Which seems easier to use? Which seems to be more helpful/safe to use?
+ *      Which seems easier to use? Which seems to be more helpful
+ *        / safe to use?
  */
 
 let untypedNumber = "4"; // accidental 'whoops' - easy to miss!
