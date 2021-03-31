@@ -36,8 +36,50 @@ inferredNum = "4";
 /* 🧠 Can you explain why some of these pass type-check and some fail? */
 let arrayOfNumsOrStrings: (number | string)[];
 arrayOfNumsOrStrings = [1, 2, 3];
-arrayOfNumsOrStrings = 123;
+arrayOfNumsOrStrings = [1, "2", 3];
 arrayOfNumsOrStrings = ["1", "2", "3"];
-arrayOfNumsOrStrings = [1, "1"];
+arrayOfNumsOrStrings = [true, false];
+arrayOfNumsOrStrings = ["true", "false"];
 
-export {}; // ignore this line
+/* 🧠 Can you explain the inferred type of this element? */
+let inferredElement = arrayOfNumsOrStrings[0];
+
+/* 🧠 Can you explain why some of these pass type-check and some fail? */
+arrayOfNums.push(1);
+arrayOfNums.push("1");
+arrayOfNums.push(true);
+arrayOfNumsOrStrings.push(1);
+arrayOfNumsOrStrings.push("1");
+arrayOfNumsOrStrings.push(true);
+
+/* 🧠 Can you explain why some of these pass type-check and some fail? */
+arrayOfNums.concat([4, 5, 6]);
+arrayOfNums.concat([4, "5", 6]);
+arrayOfNumsOrStrings.concat([4, "5", 6]);
+arrayOfNumsOrStrings.concat([4, "5", 6]);
+
+/* 🧠 Challenge: type an array of booleans */
+let boolArray;
+// write your own code to test the type-checking
+
+/* 🧠 Challenge: type an array of booleans and numbers */
+let boolAndNumArray;
+// write your own code to test the type-checking
+
+/* 🧠 Challenge: type the below array as per specifications */
+let simonSays: string[] = []; // fix me
+simonSays.push("red"); // pass type-check
+simonSays.push("blue"); // pass type-check
+simonSays.push("orange"); // fail type-check
+simonSays.push("green"); // pass type-check
+simonSays.push("GREEN"); // fail type-check
+simonSays.push("yellow"); // pass type-check
+
+/* 🧠 Challenge: type a 2D array of numbers */
+let twoDimensionalMatrix: number[]; // fix me
+twoDimensionalMatrix = [1, 2]; // fail type-check
+twoDimensionalMatrix = [[1, 2]]; // pass type-check
+twoDimensionalMatrix = [[1, 2], 3]; // fail type-check
+twoDimensionalMatrix = [[1, 2], [3]]; // pass type-check
+
+export {}; // delete this line from the Playground

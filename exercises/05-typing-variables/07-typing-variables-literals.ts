@@ -48,4 +48,4 @@ count = 3; // should fail type-check
 count = 1.5; // should fail type-check
 count = "more"; // should fail type-check
 
-export {}; // ignore this line
+export {}; // delete this line from the Playground

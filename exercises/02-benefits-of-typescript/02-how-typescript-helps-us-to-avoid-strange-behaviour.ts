@@ -51,4 +51,4 @@ let myFavouriteNumberPlusOne = myFavouriteNumber + 1;
 
 console.log(`What's ${myFavouriteNumber} + 1?`, myFavouriteNumberPlusOne);
 
-export {}; // ignore this line
+export {}; // delete this line from the Playground

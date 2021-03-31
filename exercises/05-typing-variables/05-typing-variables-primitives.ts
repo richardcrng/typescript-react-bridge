@@ -110,4 +110,4 @@ let myNumber: number;
 // myNumber = '5.55'.length;
 // myNumber = parseInt('5');
 
-export {}; // ignore this line
+export {}; // delete this line from the Playground

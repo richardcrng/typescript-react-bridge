@@ -26,4 +26,4 @@ console.log("My data:", abutMe);
 
 console.log("My full name:", `${aboutMe.firstName} ${aboutMe.surname}`);
 
-export {}; // ignore this line
+export {}; // delete this line from the Playground

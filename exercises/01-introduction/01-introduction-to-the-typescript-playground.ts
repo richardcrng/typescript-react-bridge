@@ -46,4 +46,4 @@ function greetLearner() {
  *   console.log(capturedValue); // logs: undefined
  */
 
-export {}; // ignore this line
+export {}; // delete this line from the Playground

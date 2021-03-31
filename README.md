@@ -21,7 +21,7 @@ Once you've done that, pretty much every exercise should be approached in the sa
 4. 👩🏽‍🔬 Experiment with changes (change -> predict -> run)
 5. 🧠 Try to complete the challenge(s)
 
-### Ignoring noise
+### Removing the final line for the Playground
 
 Every exercise ends with the below snippet:
 
@@ -29,4 +29,4 @@ Every exercise ends with the below snippet:
 export {};
 ```
 
-**You can safely ignore this** (and don't even need to copy and paste it into the TypeScript Playground).
+**Don't paste this final line into the Playground** (or, alternatively, delete it after you've pasted it in).

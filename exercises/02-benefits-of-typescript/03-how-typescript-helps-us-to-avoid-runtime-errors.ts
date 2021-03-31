@@ -50,4 +50,4 @@ mySentence = ["this", "should", "be", "a", "sentence"];
 
 console.log("second log:", mySentence.toUpperCase());
 
-export {}; // ignore this line
+export {}; // delete this line from the Playground
