@@ -31,8 +31,8 @@
  *      (a) an array of strings; and
  *      (b) an array of strings which we've called .join(' ') on?
  *
- *  4. What differences can you see between a TypeScript compilation error
- *       and a JavaScript runtime error?
+ *  4. What differences can you see between a TypeScript compilation
+ *      error and a JavaScript runtime error?
  */
 
 let mySentence = "hello world";

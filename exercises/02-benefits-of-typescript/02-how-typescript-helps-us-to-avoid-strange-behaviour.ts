@@ -15,23 +15,29 @@
  *  5. 🧠 Try to complete the challenge(s)
  *
  * Study questions:
- *  1. The variable, myFavouriteNumberPlusOne, seems to sometimes have a sensible
- *      value, and sometimes to have a strange value, depending on what we have
- *      assigned to it. When does it seem sensible, and when does it seem strange?
+ *  1. The variable, myFavouriteNumberPlusOne, seems to sometimes have a
+ *      sensible value, and sometimes to have a strange value, depending
+ *      on what we have assigned to it. When does it seem sensible, and
+ *      when does it seem strange?
  *
- *  2. Sometimes we see a red squiggly line when reassigning myFavouriteNumber.
- *      What might the use of that red squiggly line be?
+ *  2. Sometimes we see a red squiggly line when reassigning
+ *      myFavouriteNumber. What might the use of that red squiggly line
+ *      be?
  *
- *  3. How does the Errors tab in the TypeScript playground relate to the red squiggles
- *      in the code that is written? (Hint: try hovering over the red squiggles.)
+ *  3. How does the Errors tab in the TypeScript playground relate to
+ *      the red squiggles in the code that is written? (Hint: try
+ *      hovering over the red squiggles.)
  *
- *  4. What happens if we try reassigning myFavouriteNumber to the following?
- *      "hello world"
- *      7.8
- *      1
- *      true
- *      3 + 3
- *      [3, 3]
+ *  4. What happens if we try reassigning myFavouriteNumber to the
+ *      following?
+ *        "hello world"
+ *        7.8
+ *        1
+ *        true
+ *        3 + 3
+ *        [3, 3]
+ *
+ *      Can you explain this behaviour?
  */
 
 let myFavouriteNumber = 4; /* initial assignment to a number */
