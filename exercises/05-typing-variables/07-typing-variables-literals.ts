@@ -1,4 +1,4 @@
-/* Lesson: Typing variables: union types (1/1)
+/* Lesson: Typing variables: literal types (1/1)
  *
  * Learning outcomes:
  *  - Use a union of literal types when declaring a variable
