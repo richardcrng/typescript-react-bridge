@@ -9,6 +9,12 @@ At the moment, this course does not cover:
 
 The priority is on supplementing existing JS and React resources (of which there are many!) to support the novice developer who wants to use React with TypeScript.
 
+## How this is structured
+
+1. Introduction - this covers the TypeScript Playground, which we suggest as a learning environment
+2. Benefits of TypeScript - this shows how TypeScript adds some extra sensible benefits on top of JavaScript
+3. Typing Variables - this introduces some first bits of TypeScript-specific syntax
+
 ## How to use
 
 We recommend pasting every exercise into the [TypeScript Playground](https://www.typescriptlang.org/play) and exploring the code that way.
